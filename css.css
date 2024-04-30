@@ -171,8 +171,8 @@ input{
 }
 #aboutme{
     padding: 50px;
-    color:#074173;
-    background-color: #C5FF95;
+    color:white;
+    background-color: black;
     position: relative;
     z-index: 3;
 }
